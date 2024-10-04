@@ -1,7 +1,7 @@
 # Projects Directory
 This repository serves as a directory that helps you easily navigate through my other repositories and view the various projects I have completed.
 
-[A](#a) - [B](#b) - [C](#c) - [E](#e) - [F](#f) - [I](#i) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w)
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w)
 
 
 ## A <a id="a"></a>
@@ -13,7 +13,7 @@ This repository serves as a directory that helps you easily navigate through my 
 ## C <a id="c"></a>
 - [Contacts API](https://github.com/kharizzakaye/Contacts-API) - A simple contacts API created with ASP.NET Core 6.
 
-<!--- ## D <a id="d"></a>  --->
+## D <a id="d"></a>
 
 ## E <a id="e"></a>
 - [E-commerce](https://github.com/kharizzakaye/Ecommerce-App-Frontend) - Front-end of an e-commerce mobile application created using React Native.
@@ -21,17 +21,17 @@ This repository serves as a directory that helps you easily navigate through my 
 ## F <a id="f"></a>
 - [Fizzi](https://github.com/kharizzakaye/kharizza-fizzi) - An animated 3D Landing page created with Next.js, Three.js and GSAP.
 
-<!--- ## G <a id="g"></a>   --->
+## G <a id="g"></a>
 
-<!--- ## H <a id="h"></a>  --->
+## H <a id="h"></a>
 
 ## I <a id="i"></a>
 - [Image Segmentation](https://github.com/kharizzakaye/Image-Segmentation) - Image Segmentation using Python and Unsupervised Learning.
 - [Interactive Rating Component](https://github.com/kharizzakaye/Interactive-rating-component) - An interactive rating component created with JavaScript.
 
-<!--- ## J <a id="j"></a>  --->
+## J <a id="j"></a>
 
-<!--- ## K <a id="k"></a> --->
+## K <a id="k"></a>
 
 ## L <a id="l"></a>
 - [Little Lemon Newsletter](https://github.com/kharizzakaye/Little-Lemon-Newsletter) - Final project for the online course React Native by Meta.
@@ -54,7 +54,7 @@ This repository serves as a directory that helps you easily navigate through my 
 - [Product Preview Card Component](https://github.com/kharizzakaye/Product-preview-card-component) - A responsive product preview card component created using Bootstrap 5.
 - [Python Geovisualization Dashboard](https://github.com/kharizzakaye/Python-Geovisualization-Dashboard) - A Python geovisualization dashboard using COVID-19 data.
 
-<!--- ## Q <a id="q"></a> --->
+## Q <a id="q"></a>
 
 ## R <a id="r"></a>
 - [Random Anime Quote Generator](https://github.com/kharizzakaye/Random-Anime-Quote-Generator) - A random anime quote generator.

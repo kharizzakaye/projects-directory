@@ -67,6 +67,7 @@ A repository dedicated as a projects directory that will guide users to easily n
 
 ## T <a id="t"></a>
 - [Typing Game](https://github.com/kharizzakaye/Typing-Game) - A typing game created using Python 3.
+- [To do list](https://github.com/kharizzakaye/fullstack-todo/tree/master) - A fullstack To-do list web application, created with React, Typescript, Node.js, Express.js and MySQL.
 - [To do list](https://github.com/kharizzakaye/to-do-list) - A to do list web application created with Python, Flask, and SQLite.
 
 ## U <a id="u"></a>

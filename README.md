@@ -49,6 +49,8 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Order Summary Component - React](https://github.com/kharizzakaye/Order-summary-component-React) - An order summary component created with React JS.
 
 ## P <a id="p"></a>
+- [Personal Portfolio (React)](https://github.com/kharizzakaye/kharizza-viloria-portfolio) - My personal portfolio website created using React JS.
+- [ARCHIVED] [Personal Portfolio](https://github.com/kharizzakaye/portfolio-website-2024) - My personal portfolio website created using HTML, CSS, and Bootstrap.
 - [Picture Puzzle](https://github.com/kharizzakaye/Picture-Puzzle) - A picture puzzle game created using Java Swing.
 - [Product List with Cart](https://github.com/kharizzakaye/Product-list-with-cart) - A products list page with add to cart functionality.
 - [Product Preview Card Component](https://github.com/kharizzakaye/Product-preview-card-component) - A responsive product preview card component created using Bootstrap 5.

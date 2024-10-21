@@ -68,9 +68,9 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Smart Contracts](https://github.com/kharizzakaye/Smart-Contracts) - Final project solution for the course Smart Contracts by University at Buffalo & The State University of New York.
 
 ## T <a id="t"></a>
-- [Typing Game](https://github.com/kharizzakaye/Typing-Game) - A typing game created using Python 3.
 - [To do list](https://github.com/kharizzakaye/fullstack-todo/tree/master) - A fullstack To-do list web application, created with React, Typescript, Node.js, Express.js and MySQL.
 - [To do list](https://github.com/kharizzakaye/to-do-list) - A to do list web application created with Python, Flask, and SQLite.
+- [Typing Game](https://github.com/kharizzakaye/Typing-Game) - A typing game created using Python 3.
 
 ## U <a id="u"></a>
 - [Shortly](https://github.com/kharizzakaye/URL-Shortening-Landing-Page) - A responsive URL Shortening landing page.
@@ -79,5 +79,5 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Veterinary Appointment](https://github.com/kharizzakaye/veterinary-appointment) - Built using React and Tailwind CSS.
 
 ## W <a id="u"></a>
-- [Where in the world?](https://github.com/kharizzakaye/rest-countries) - A webpage using REST Countries API, with color theme switcher. Created with React JS.
 - [Weather App](https://github.com/kharizzakaye/Weather-App) - A fully functional weather app with geolocation. Built with HTML, CSS, and JavaScript using OpenWeatherMap and OpenCage APIs.
+- [Where in the world?](https://github.com/kharizzakaye/rest-countries) - A webpage using REST Countries API, with color theme switcher. Created with React JS.

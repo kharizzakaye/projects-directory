@@ -14,7 +14,8 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Contacts API](https://github.com/kharizzakaye/Contacts-API) - A simple contacts API created with ASP.NET Core 6.
 
 ## D <a id="d"></a>
-
+- [Data Structures and Algorithms](https://github.com/kharizzakaye/Data-structures-and-algorithms) - A collection of Data Structures and Algorithms, in different programming languages.
+- 
 ## E <a id="e"></a>
 - [E-commerce](https://github.com/kharizzakaye/Ecommerce-App-Frontend) - Front-end of an e-commerce mobile application created using React Native.
 

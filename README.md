@@ -5,7 +5,8 @@ A repository dedicated as a projects directory that will guide users to easily n
 
 
 ## A <a id="a"></a>
-
+- [AI Music Visualizer](https://github.com/kharizzakaye/generative-ai-music-visualizer) - A Generative AI music visualizer, created with Next.js and Tailwind CSS.
+  
 ## B <a id="b"></a>
 - [Bare bones HTML template](https://github.com/kharizzakaye/Bare-Bones-HTML-Webpage) - Bare bones HTML5 template with Bootstrap 5 and meta tags for Responsive design, SEO and Open Graph Protocol.
 - [Bill Splitter](https://github.com/kharizzakaye/Bill-Splitter) - A Bill Splitter app created with Angular JS.

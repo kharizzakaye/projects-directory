@@ -43,7 +43,7 @@ A repository dedicated as a projects directory that will guide users to easily n
 
 ## N <a id="n"></a>
 - [Naming Contest App](https://github.com/kharizzakaye/Naming-Contest-App) - A Naming Contest application created using Mongo, Express, React and Node (MERN).
-
+- [Node.js-code-snippets](https://github.com/kharizzakaye/Node.js-code-snippets) - A collection of useful Node.js code snippets.
 
 ## O <a id="o"></a>
 - [Order Summary Component](https://github.com/kharizzakaye/Order-summary-component) - An order summary component created with HTML5, CSS3 and Bootstrap 5.

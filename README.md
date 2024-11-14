@@ -63,6 +63,7 @@ A repository dedicated as a projects directory that will guide users to easily n
 ## R <a id="r"></a>
 - [Random Anime Quote Generator](https://github.com/kharizzakaye/Random-Anime-Quote-Generator) - A random anime quote generator.
 - [Restaurant Management System](https://github.com/kharizzakaye/Restaurant-management-system) - A Restaurant Management System created with Laravel.
+- [Results Summary Component](https://github.com/kharizzakaye/results-summary-component) - A responsive results summary component, created with Bootstrap 5.
 - [Room Homepage](https://github.com/kharizzakaye/Room-Homepage-React) - A homepage site created using React JS and Tailwind CSS.
  
 ## S <a id="s"></a>

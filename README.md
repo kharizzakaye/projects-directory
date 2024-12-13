@@ -11,6 +11,7 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Bill Splitter](https://github.com/kharizzakaye/Bill-Splitter) - A Bill Splitter app created with Angular JS.
 
 ## C <a id="c"></a>
+- [Classic Snake Game](https://github.com/kharizzakaye/classic-snake-game) - A classic snake game created with Python 3 and Turtle Graphics.
 - [Contacts API](https://github.com/kharizzakaye/Contacts-API) - A simple contacts API created with ASP.NET Core 6.
 
 ## D <a id="d"></a>

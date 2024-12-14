@@ -26,7 +26,8 @@ A repository dedicated as a projects directory that will guide users to easily n
 ## G <a id="g"></a>
 
 ## H <a id="h"></a>
-
+- [HackerRank Challenges](https://github.com/kharizzakaye/HackerRank-Challenges) - A collection of my solutions to various HackerRank challenges, in multiple programming languages.
+  
 ## I <a id="i"></a>
 - [Image Segmentation](https://github.com/kharizzakaye/Image-Segmentation) - Image Segmentation using Python and Unsupervised Learning.
 - [Interactive Rating Component](https://github.com/kharizzakaye/Interactive-rating-component) - An interactive rating component created with JavaScript.

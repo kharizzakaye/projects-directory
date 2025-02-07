@@ -98,3 +98,4 @@ Jump to [Coding Exercises](#coding-exercises)
 Solutions for various coding problems / exercises from different sources.
 
 - [HackerRank Challenges](https://github.com/kharizzakaye/HackerRank-Challenges) - A collection of my solutions to various HackerRank challenges, in multiple programming languages.
+- [Salesforce Apex](https://github.com/kharizzakaye/apex-programming) - Solutions to Apex programming exercises.

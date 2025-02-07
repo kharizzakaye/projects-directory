@@ -4,7 +4,7 @@ A repository dedicated as a projects directory that will guide users to easily n
 [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w)
 <br/>
 <br/>
-Jump to [Coding Exercises](coding-exercises)
+Jump to [Coding Exercises](#coding-exercises)
 
 
 ## A <a id="a"></a>

@@ -2,6 +2,9 @@
 A repository dedicated as a projects directory that will guide users to easily navigate through my repositories and view the projects I have completed.
 
 [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w)
+<br/>
+<br/>
+Jump to [Coding Exercises](coding-exercises)
 
 
 ## A <a id="a"></a>
@@ -26,7 +29,6 @@ A repository dedicated as a projects directory that will guide users to easily n
 ## G <a id="g"></a>
 
 ## H <a id="h"></a>
-- [HackerRank Challenges](https://github.com/kharizzakaye/HackerRank-Challenges) - A collection of my solutions to various HackerRank challenges, in multiple programming languages.
   
 ## I <a id="i"></a>
 - [Image Segmentation](https://github.com/kharizzakaye/Image-Segmentation) - Image Segmentation using Python and Unsupervised Learning.
@@ -84,6 +86,15 @@ A repository dedicated as a projects directory that will guide users to easily n
 ## V <a id="v"></a>
 - [Veterinary Appointment](https://github.com/kharizzakaye/veterinary-appointment) - Built using React and Tailwind CSS.
 
-## W <a id="u"></a>
+## W <a id="w"></a>
 - [Weather App](https://github.com/kharizzakaye/Weather-App) - A fully functional weather app with geolocation. Built with HTML, CSS, and JavaScript using OpenWeatherMap and OpenCage APIs.
 - [Where in the world?](https://github.com/kharizzakaye/rest-countries) - A webpage using REST Countries API, with color theme switcher. Created with React JS.
+
+
+<br/>
+<br/>
+
+# Coding Exercises <a id="coding-exercises"></a>
+Solutions for various coding problems / exercises from different sources.
+
+- [HackerRank Challenges](https://github.com/kharizzakaye/HackerRank-Challenges) - A collection of my solutions to various HackerRank challenges, in multiple programming languages.

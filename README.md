@@ -76,7 +76,7 @@ Jump to [Coding Exercises](#coding-exercises)
 
 ## T <a id="t"></a>
 - [Task Manager](https://github.com/kharizzakaye/task-manager) - A simple task manager developed with React and Tailwind. Created with useReducer, useContsxt, useState and createContext hooks.
-- [Text Analyzer App](https://github.com/kharizzakaye/character-counter) - A React application that analyzes the letter density, character count, word count, and sentence count of a text.
+- [On-going][Text Analyzer App](https://github.com/kharizzakaye/character-counter) - A React application that analyzes the letter density, character count, word count, and sentence count of a text.
 - [To do list](https://github.com/kharizzakaye/fullstack-todo/tree/master) - A fullstack To-do list web application, created with React, Typescript, Node.js, Express.js and MySQL.
 - [To do list](https://github.com/kharizzakaye/to-do-list) - A to do list web application created with Python, Flask, and SQLite.
 - [Typing Game](https://github.com/kharizzakaye/Typing-Game) - A typing game created using Python 3.

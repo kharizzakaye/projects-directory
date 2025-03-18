@@ -71,6 +71,7 @@ Jump to [Coding Exercises](#coding-exercises)
 - [Room Homepage](https://github.com/kharizzakaye/Room-Homepage-React) - A homepage site created using React JS and Tailwind CSS.
  
 ## S <a id="s"></a>
+- [Shortly](https://github.com/kharizzakaye/URL-Shortening-Landing-Page) - A responsive URL Shortening landing page.
 - [Single-page Design Portfolio](https://github.com/kharizzakaye/single-page-design-portfolio) - A Single Page Design Portfolio.
 - [Smart Contracts](https://github.com/kharizzakaye/Smart-Contracts) - Final project solution for the course Smart Contracts by University at Buffalo & The State University of New York.
 
@@ -82,8 +83,8 @@ Jump to [Coding Exercises](#coding-exercises)
 - [Typing Game](https://github.com/kharizzakaye/Typing-Game) - A typing game created using Python 3.
 
 ## U <a id="u"></a>
-- [Shortly](https://github.com/kharizzakaye/URL-Shortening-Landing-Page) - A responsive URL Shortening landing page.
-
+- [UI Components - shadcn/ui](https://github.com/kharizzakaye/shadcn-ui-components) - A collection of UI components - created using Next.js, Tailwind, shadcn/ui, Formik and Yup.
+  
 ## V <a id="v"></a>
 - [Veterinary Appointment](https://github.com/kharizzakaye/veterinary-appointment) - Built using React and Tailwind CSS.
 

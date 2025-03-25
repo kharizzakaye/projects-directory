@@ -8,7 +8,7 @@ Jump to [Coding Exercises](#coding-exercises)
 
 
 ## A <a id="a"></a>
-- [Animated Components (Next.js)](https://github.com/kharizzakaye/nextjs-animated-login) - A collection of various animated components - created using Next.js and Tailwind CSS.
+- [UNDER DEVELOPMENT] [Animated Components (Next.js)](https://github.com/kharizzakaye/nextjs-animated-login) - A collection of various animated components - created using Next.js and Tailwind CSS.
 
 ## B <a id="b"></a>
 - [Bare bones HTML template](https://github.com/kharizzakaye/Bare-Bones-HTML-Webpage) - Bare bones HTML5 template with Bootstrap 5 and meta tags for Responsive design, SEO and Open Graph Protocol.

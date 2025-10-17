@@ -16,6 +16,7 @@ Jump to [Coding Exercises](#coding-exercises)
 
 ## C <a id="c"></a>
 - [Classic Snake Game](https://github.com/kharizzakaye/classic-snake-game) - A classic snake game created with Python 3 and Turtle Graphics.
+- [UNDER DEVELOPMENT] [Computer Repair Shop Ticketing System)](https://github.com/kharizzakaye/repair-shop-ticketing-system) - A fullstack passwordless ticketing system for a computer repair shop. 
 - [Contacts API](https://github.com/kharizzakaye/Contacts-API) - A simple contacts API created with ASP.NET Core 6.
 
 ## D <a id="d"></a>

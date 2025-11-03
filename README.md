@@ -21,7 +21,8 @@ Jump to [Coding Exercises](#coding-exercises)
 
 ## D <a id="d"></a>
 - [Data Structures and Algorithms](https://github.com/kharizzakaye/Data-structures-and-algorithms) - A collection of Data Structures and Algorithms, in different programming languages.
-
+- [UNDER DEVELOPMENT] [Detective Conan REST API](https://github.com/kharizzakaye/detective-conan-api) - A Detective Conan REST API - created using NestJS, Prisma ORM, Neon DB and Swagger.
+- 
 ## E <a id="e"></a>
 - [E-commerce](https://github.com/kharizzakaye/Ecommerce-App-Frontend) - Front-end of an e-commerce mobile application created using React Native.
 

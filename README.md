@@ -101,13 +101,3 @@ Solutions for various coding problems / exercises from different sources.
 
 - [HackerRank Challenges](https://github.com/kharizzakaye/HackerRank-Challenges) - A collection of my solutions to various HackerRank challenges, in multiple programming languages.
 - [PHP Challenges](https://github.com/kharizzakaye/PHP-Challenges) - A collection of solutions to various PHP challenges and problems.
-- [Salesforce Apex](https://github.com/kharizzakaye/apex-programming) - Solutions to Apex programming exercises.
-
-
-<br/>
-<br/>
-
-# Useful Code Snippets <a id="code-snippets"></a>
-List of useful code snippets for reference.
-
-- [Node.js Code Snippets](https://github.com/kharizzakaye/Node.js-code-snippets) - A collection of useful Node.js code snippets.

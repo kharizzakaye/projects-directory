@@ -49,7 +49,6 @@ Jump to [Coding Exercises](#coding-exercises)
 
 ## N <a id="n"></a>
 - [Naming Contest App](https://github.com/kharizzakaye/Naming-Contest-App) - A Naming Contest application created using Mongo, Express, React and Node (MERN).
-- [Node.js Code Snippets](https://github.com/kharizzakaye/Node.js-code-snippets) - A collection of useful Node.js code snippets.
 
 ## O <a id="o"></a>
 - [Order Summary Component](https://github.com/kharizzakaye/Order-summary-component) - An order summary component created with HTML5, CSS3 and Bootstrap 5.
@@ -58,7 +57,6 @@ Jump to [Coding Exercises](#coding-exercises)
 ## P <a id="p"></a>
 - [Personal Portfolio (React)](https://github.com/kharizzakaye/kharizza-viloria-portfolio) - My personal portfolio website created using React JS.
 - [ARCHIVED] [Personal Portfolio](https://github.com/kharizzakaye/portfolio-website-2024) - My personal portfolio website created using HTML, CSS, and Bootstrap.
-- [PHP Challenges](https://github.com/kharizzakaye/PHP-Challenges) - A collection of solutions to various PHP challenges and problems.
 - [Picture Puzzle](https://github.com/kharizzakaye/Picture-Puzzle) - A picture puzzle game created using Java Swing.
 - [Product List with Cart](https://github.com/kharizzakaye/Product-list-with-cart) - A products list page with add to cart functionality.
 - [Product Preview Card Component](https://github.com/kharizzakaye/Product-preview-card-component) - A responsive product preview card component created using Bootstrap 5.
@@ -98,8 +96,18 @@ Jump to [Coding Exercises](#coding-exercises)
 <br/>
 <br/>
 
-# Coding Exercises <a id="coding-exercises"></a>
+# Coding Exercises / Challenges Solutions<a id="coding-exercises"></a>
 Solutions for various coding problems / exercises from different sources.
 
 - [HackerRank Challenges](https://github.com/kharizzakaye/HackerRank-Challenges) - A collection of my solutions to various HackerRank challenges, in multiple programming languages.
+- [PHP Challenges](https://github.com/kharizzakaye/PHP-Challenges) - A collection of solutions to various PHP challenges and problems.
 - [Salesforce Apex](https://github.com/kharizzakaye/apex-programming) - Solutions to Apex programming exercises.
+
+
+<br/>
+<br/>
+
+# Useful Code Snippets <a id="code-snippets"></a>
+List of useful code snippets for reference.
+
+- [Node.js Code Snippets](https://github.com/kharizzakaye/Node.js-code-snippets) - A collection of useful Node.js code snippets.

@@ -1,7 +1,7 @@
 # Projects Directory
 A repository dedicated as a projects directory that will guide users to easily navigate through my repositories and view the projects I have completed.
 
-[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w)
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w) - [Y](#y)
 <br/>
 <br/>
 Jump to [Coding Exercises](#coding-exercises)
@@ -93,6 +93,9 @@ Jump to [Coding Exercises](#coding-exercises)
 ## W <a id="w"></a>
 - [Weather App](https://github.com/kharizzakaye/Weather-App) - A fully functional weather app with geolocation. Built with HTML, CSS, and JavaScript using OpenWeatherMap and OpenCage APIs.
 - [Where in the world?](https://github.com/kharizzakaye/rest-countries) - A webpage using REST Countries API, with color theme switcher. Created with React JS.
+  
+## Y <a id="y"></a>
+- [YouTube Music Player](https://github.com/kharizzakaye/youtube-music-player) - A YouTube music player, created with React, Next.js, Typescript, Tailwind CSS, and YouTube IFrame API.
 
 
 <br/>

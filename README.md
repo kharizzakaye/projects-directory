@@ -8,7 +8,6 @@ Jump to [Coding Exercises](#coding-exercises)
 
 
 ## A <a id="a"></a>
-- [UNDER DEVELOPMENT] [Animated Components (Next.js)](https://github.com/kharizzakaye/nextjs-animated-login) - A collection of various animated components - created using Next.js and Tailwind CSS.
 
 ## B <a id="b"></a>
 - [Bare bones HTML template](https://github.com/kharizzakaye/Bare-Bones-HTML-Webpage) - Bare bones HTML5 template with Bootstrap 5 and meta tags for Responsive design, SEO and Open Graph Protocol.
@@ -21,7 +20,6 @@ Jump to [Coding Exercises](#coding-exercises)
 - [Contacts API](https://github.com/kharizzakaye/Contacts-API) - A simple contacts API created with ASP.NET Core 6.
 
 ## D <a id="d"></a>
-- [Data Structures and Algorithms](https://github.com/kharizzakaye/Data-structures-and-algorithms) - A collection of Data Structures and Algorithms, in different programming languages.
 - [UNDER DEVELOPMENT] [Detective Conan REST API](https://github.com/kharizzakaye/detective-conan-api) - A Detective Conan REST API - created using NestJS, Prisma ORM, Neon DB and Swagger.
 - 
 ## E <a id="e"></a>
@@ -57,7 +55,6 @@ Jump to [Coding Exercises](#coding-exercises)
 - [Order Summary Component - React](https://github.com/kharizzakaye/Order-summary-component-React) - An order summary component created with React JS.
 
 ## P <a id="p"></a>
-- [Personal Portfolio (React)](https://github.com/kharizzakaye/kharizza-viloria-portfolio) - My personal portfolio website created using React JS.
 - [ARCHIVED] [Personal Portfolio](https://github.com/kharizzakaye/portfolio-website-2024) - My personal portfolio website created using HTML, CSS, and Bootstrap.
 - [Picture Puzzle](https://github.com/kharizzakaye/Picture-Puzzle) - A picture puzzle game created using Java Swing.
 - [Product List with Cart](https://github.com/kharizzakaye/Product-list-with-cart) - A products list page with add to cart functionality.
@@ -68,7 +65,6 @@ Jump to [Coding Exercises](#coding-exercises)
 
 ## R <a id="r"></a>
 - [Random Anime Quote Generator](https://github.com/kharizzakaye/Random-Anime-Quote-Generator) - A random anime quote generator.
-- [Restaurant Management System](https://github.com/kharizzakaye/Restaurant-management-system) - A Restaurant Management System created with Laravel.
 - [Results Summary Component](https://github.com/kharizzakaye/results-summary-component) - A responsive results summary component, created with Bootstrap 5.
 - [Room Homepage](https://github.com/kharizzakaye/Room-Homepage-React) - A homepage site created using React JS and Tailwind CSS.
  
@@ -79,13 +75,11 @@ Jump to [Coding Exercises](#coding-exercises)
 
 ## T <a id="t"></a>
 - [Task Manager](https://github.com/kharizzakaye/task-manager) - A simple task manager developed with React and Tailwind. Created with useReducer, useContsxt, useState and createContext hooks.
-- [UNDER DEVELOPMENT] [Text Analyzer App](https://github.com/kharizzakaye/character-counter) - A React application that analyzes the letter density, character count, word count, and sentence count of a text.
 - [To do list](https://github.com/kharizzakaye/fullstack-todo/tree/master) - A fullstack To-do list web application, created with React, Typescript, Node.js, Express.js and MySQL.
 - [To do list](https://github.com/kharizzakaye/to-do-list) - A to do list web application created with Python, Flask, and SQLite.
 - [Typing Game](https://github.com/kharizzakaye/Typing-Game) - A typing game created using Python 3.
 
 ## U <a id="u"></a>
-- [UI Components - shadcn/ui](https://github.com/kharizzakaye/shadcn-ui-components) - A collection of UI components - created using Next.js, Tailwind, shadcn/ui, Formik and Yup.
   
 ## V <a id="v"></a>
 - [Veterinary Appointment](https://github.com/kharizzakaye/veterinary-appointment) - Built using React and Tailwind CSS.
@@ -96,13 +90,3 @@ Jump to [Coding Exercises](#coding-exercises)
   
 ## Y <a id="y"></a>
 - [YouTube Music Player](https://github.com/kharizzakaye/youtube-music-player) - A YouTube music player, created with React, Next.js, Typescript, Tailwind CSS, and YouTube IFrame API.
-
-
-<br/>
-<br/>
-
-# Coding Exercises / Challenges Solutions<a id="coding-exercises"></a>
-Solutions for various coding problems / exercises from different sources.
-
-- [HackerRank Challenges](https://github.com/kharizzakaye/HackerRank-Challenges) - A collection of my solutions to various HackerRank challenges, in multiple programming languages.
-- [PHP Challenges](https://github.com/kharizzakaye/PHP-Challenges) - A collection of solutions to various PHP challenges and problems.

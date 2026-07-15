@@ -14,6 +14,7 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Classic Snake Game](https://github.com/kharizzakaye/classic-snake-game) - A classic snake game created with Python 3 and Turtle Graphics.
 - [Computer Repair Shop Ticketing System](https://github.com/kharizzakaye/repair-shop-ticketing-system) - A fullstack passwordless ticketing system for a computer repair shop - created with React, Next.js, Typescript, Shadcn UI, Tailwind, Sentry, Kinde, Neon, Drizzle ORM, React Hook Form and Zod.
 - [Contacts API](https://github.com/kharizzakaye/Contacts-API) - A simple contacts API created with ASP.NET Core 6.
+- [COVID-19 Geovisualization Dashboard](https://github.com/kharizzakaye/Python-Geovisualization-Dashboard) - A Python geovisualization dashboard using COVID-19 data.
 
 ## D <a id="d"></a>
 - [UNDER DEVELOPMENT] [Detective Conan REST API](https://github.com/kharizzakaye/detective-conan-api) - A Detective Conan REST API - created using NestJS, Prisma ORM, Neon DB and Swagger.
@@ -55,7 +56,6 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Picture Puzzle](https://github.com/kharizzakaye/Picture-Puzzle) - A picture puzzle game created using Java Swing.
 - [Product List with Cart](https://github.com/kharizzakaye/Product-list-with-cart) - A products list page with add to cart functionality.
 - [Product Preview Card Component](https://github.com/kharizzakaye/Product-preview-card-component) - A responsive product preview card component created using Bootstrap 5.
-- [Python Geovisualization Dashboard](https://github.com/kharizzakaye/Python-Geovisualization-Dashboard) - A Python geovisualization dashboard using COVID-19 data.
 
 ## Q <a id="q"></a>
 

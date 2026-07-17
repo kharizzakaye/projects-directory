@@ -10,6 +10,7 @@ A repository dedicated as a projects directory that will guide users to easily n
 - [Bill Splitter](https://github.com/kharizzakaye/Bill-Splitter) - A Bill Splitter app created with Angular JS.
 
 ## C <a id="c"></a>
+- [Card Flip - Memory Game](https://github.com/kharizzakaye/card-flip-memory) - A fun and interactive memory game built with React, Vite, and Tailwind CSS. Test your memory skills by flipping cards to find matching pairs.
 - [Christmas Countdown Timer](https://github.com/kharizzakaye/christmas-countdown-timer) - An animated Christmas countdown timer with background music player, created with ReactJS, Next.js and Tailwind CSS.
 - [Classic Snake Game](https://github.com/kharizzakaye/classic-snake-game) - A classic snake game created with Python 3 and Turtle Graphics.
 - [Computer Repair Shop Ticketing System](https://github.com/kharizzakaye/repair-shop-ticketing-system) - A fullstack passwordless ticketing system for a computer repair shop - created with React, Next.js, Typescript, Shadcn UI, Tailwind, Sentry, Kinde, Neon, Drizzle ORM, React Hook Form and Zod.
